@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8">
+    <meta content="IE-edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, intial-scale=1.0" name="viewport">
+    <link rel="shortcut icon" href="E:\complex\Pink Minimal Typography Logo  (2).png"/>
+<head>
+    
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>sales</title>
+</head>
+
+<body>
+    <div>
+       
+    <pre>
+    <img src="C:\Users\unnut_tqt60s2\Downloads\Pink Minimal Typography Logo  (2).png" height="80"></img>
+    </pre>
+    <h2>Select Catagory</h2>
+</div>
+<main>
+    <div>
+    <div>
+        
+        <img src="https://clipground.com/images/bike-clipart-logo-2.jpg" height="100px">
+        <p>Bicycle</p>
+    </div>
+             <div>
+        <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSEhQVEhUZGBgZGRkVGBgZFRwZHRoaGhUdGhgYGB0cIS4lHB4rHxgYJjomL
+        C80NjU1HCQ9TjszPy40NTEBDAwMDw8PGBEPETQdGB0xND8xMTE0MTExMTE/NDExMTQxMTE0MTExMTExMTE0MTExMTExMTQxMTExMTExMTExMf/AABEIAOkA2AMBIgACEQEDEQH/
+        
+    
+    </div>
+
+    <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzemSBCV9u-9onzWM6KDVSZumHC2TZ0YIqA&usqp=CAU" height="100px">
+        <p>Study</p>
+    </div>
+    <div>
+       
+       <p>Trunk</p>
+
+    </div>
+    <div>
+        <p>Others</p>
+    </div>
+
+</div>
+</main>
+
+
+</body>
+</html>
